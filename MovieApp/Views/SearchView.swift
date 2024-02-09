@@ -23,7 +23,7 @@ struct SearchView: View {
                     Button {
                         dismiss()
                     } label: {
-                        Image(systemName: "xmark")
+                        Image(systemName: "arrow.down")
                             .font(.system(.subheadline, design: .rounded).weight(.semibold))
                             .foregroundColor(Color.white)
                             .padding(10)
