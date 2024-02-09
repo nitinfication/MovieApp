@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "movienetworksdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nitinfication/MovieNetworkSDK",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0086a1c77df67c9436f5f6d12b10647a83f9d296"
+      }
+    }
+  ],
+  "version" : 2
+}
